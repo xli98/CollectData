@@ -1,0 +1,39 @@
+C:\Users\mmcclos2\Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\bin\Debug\CollectTabletData.exe.config
+C:\Users\mmcclos2\Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\bin\Debug\CollectTabletData.exe
+C:\Users\mmcclos2\Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\bin\Debug\CollectTabletData.pdb
+C:\Users\mmcclos2\Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.csprojResolveAssemblyReference.cache
+C:\Users\mmcclos2\Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.Form1.resources
+C:\Users\mmcclos2\Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.Properties.Resources.resources
+C:\Users\mmcclos2\Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.csproj.GenerateResource.Cache
+C:\Users\mmcclos2\Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.exe
+C:\Users\mmcclos2\Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.pdb
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\bin\Debug\CollectTabletData.exe.config
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.exe
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.pdb
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.csprojResolveAssemblyReference.cache
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.Form1.resources
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.Properties.Resources.resources
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.csproj.GenerateResource.Cache
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\bin\Debug\CollectTabletData.exe
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\bin\Debug\CollectTabletData.pdb
+C:\Users\MM\Documents\My Dropbox\Visual Studio Projects\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.RunTrials.resources
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\bin\Debug\CollectTabletData.exe.config
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.exe
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.pdb
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\bin\Debug\CollectTabletData.exe
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\bin\Debug\CollectTabletData.pdb
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.csprojResolveAssemblyReference.cache
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.Form1.resources
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.Properties.Resources.resources
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.RunTrials.resources
+C:\Users\xli152\Desktop\CollectTabletData\CollectTabletData\obj\Debug\CollectTabletData.csproj.GenerateResource.Cache
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\bin\Debug\CollectTabletData.exe.config
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\obj\Debug\CollectTabletData.exe
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\obj\Debug\CollectTabletData.pdb
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\bin\Debug\CollectTabletData.exe
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\bin\Debug\CollectTabletData.pdb
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\obj\Debug\CollectTabletData.Form1.resources
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\obj\Debug\CollectTabletData.Properties.Resources.resources
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\obj\Debug\CollectTabletData.RunTrials.resources
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\obj\Debug\CollectTabletData.csproj.GenerateResource.Cache
+C:\Users\xli152\Desktop\CollectTabletData-modified\CollectTabletData\obj\Debug\CollectTabletData.csprojResolveAssemblyReference.cache
